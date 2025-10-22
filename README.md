@@ -21,7 +21,11 @@ _Create a site or blog from your GitHub repositories with GitHub Pages._
 ## Benvenuti!
 
 _Introduzione al progetto!_
+
+
 Benvenuti nel sito!
+
+{% for post in site.posts limit: 5 %}
 
 
 <footer>
