@@ -1,7 +1,6 @@
-Presentazione 
-Buongiorno, sono Vincenzo Russo, presidente di Iscos, l'istituto della CISL per la cooperazione e lo sviluppo internazionale.
-Promuoviamo il lavoro dignitoso e lo sviluppo del sindacalismo nel mondo, in El Salvador, in Senegal, in Eritrea, in Bosnia, in Pakistan.
-
+Il testo che segue è il mio intervento al congresso della CISL di luglio 2025.
+Nei prossimi giorni approfondirò i vari aspetti toccati da questo intervento.
+---
 Il mio intervento si concentrerà su un solo tema:
 La Disuguaglianza
 La differenza nella distribuzione della ricchezza tra le persone. La grandezza attuale della disuguaglianza non è mai stata raggiunta nella storia umana.
