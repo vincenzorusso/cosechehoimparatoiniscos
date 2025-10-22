@@ -1,5 +1,6 @@
 Il testo che segue è il mio intervento al congresso della CISL di luglio 2025.
-Nei prossimi giorni approfondirò i vari aspetti toccati da questo intervento.
+Nei prossimi articoli approfondirò i vari aspetti toccati da questo intervento.
+
 ---
 Il mio intervento si concentrerà su un solo tema:
 La Disuguaglianza
