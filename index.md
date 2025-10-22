@@ -2,7 +2,7 @@
 title: 50 cose che ho imparato da presidente dell'Iscos
 ---
 
-G1 Parti dal piccolo
+#G1 Parti dal piccolo
 
 Pensa al futuro lontanissimo, parti dal piccolo quotidiano
 
