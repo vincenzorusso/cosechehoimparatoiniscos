@@ -1,5 +1,5 @@
 ---
-title: 50 cose che ho imparato da presidente dell'Iscos
+title: Le cose che ho imparato da presidente dell'Iscos
 ---
 
 #G1 Parti dal piccolo
