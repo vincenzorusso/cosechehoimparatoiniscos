@@ -1,9 +1,13 @@
+## Premessa
 Il testo che segue è il mio intervento al congresso della CISL di luglio 2025.
 Nei prossimi articoli approfondirò i vari aspetti toccati da questo intervento.
 
+### Sommario
+
+
 ---
-Il mio intervento si concentrerà su un solo tema:
-La Disuguaglianza
+Il mio intervento si concentrerà su un solo tema: La Disuguaglianza
+
 La differenza nella distribuzione della ricchezza tra le persone. La grandezza attuale della disuguaglianza non è mai stata raggiunta nella storia umana.
 
 Faccio alcuni esempi per tratteggiare i contorni del fenomeno. 
