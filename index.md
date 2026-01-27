@@ -12,3 +12,4 @@ In Iscos, in una situazione di grave difficolt√† economica, la prima decisione √
 
 <footer>
 {% for post in site.posts limit: 5 %}
+{% endfor %}
